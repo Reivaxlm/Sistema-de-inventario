@@ -12,3 +12,6 @@ Sistema de control de inventario desarrollado en **C#** con **.NET 8** y **Windo
 - Lenguaje: C#
 - Framework: .NET 8.0 (Windows Forms)
 - Paradigma: Programación Orientada a Objetos (POO)
+
+## 📥 Descarga el programa listo para usar
+[Haz clic aquí para descargar la última versión](https://github.com/Reivaxlm/Sistema-de-inventario/releases/tag/v1.0.0)
